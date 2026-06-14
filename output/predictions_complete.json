@@ -1,0 +1,1902 @@
+[
+    {
+        "hints": [
+            "legno",
+            "forte",
+            "continua",
+            "malattia",
+            "veloce"
+        ],
+        "gold_sol": "cassa",
+        "pred_sol": "pezzo",
+        "pred_sols_top5": [
+            "pezzo",
+            "cassa",
+            "regolatore",
+            "orario",
+            "tempo"
+        ],
+        "generated_desc": "La parola 'PEZZO' è la soluzione corretta perché si lega a 'legno' nell'espressione linguistica 'pezzo di legno', ed infine si lega a 'forte' nell'espressione linguistica 'pezzo forte'."
+    },
+    {
+        "hints": [
+            "libertà",
+            "minuto",
+            "capo",
+            "notte",
+            "furore"
+        ],
+        "gold_sol": "popolo",
+        "pred_sol": "primo",
+        "pred_sols_top5": [
+            "primo",
+            "fare",
+            "avere",
+            "popolo",
+            "zona"
+        ],
+        "generated_desc": "La parola 'PRIMO' è la soluzione corretta perché si lega a 'minuto' nell'espressione linguistica 'minuto primo', si lega a 'capo' nell'espressione linguistica 'il primo che capita', ed infine si lega a 'notte' nell'espressione linguistica 'prima notte'."
+    },
+    {
+        "hints": [
+            "vecchio",
+            "cavallo",
+            "end",
+            "soda",
+            "conquista"
+        ],
+        "gold_sol": "west",
+        "pred_sol": "prende",
+        "pred_sols_top5": [
+            "prende",
+            "nuovo",
+            "testamento",
+            "andare",
+            "buon"
+        ],
+        "generated_desc": "La parola 'PRENDE' è la soluzione corretta perché forma con 'vecchio' il proverbio italiano 'Asino vecchio non prende lezioni', ed infine si lega a 'soda' nell'espressione linguistica 'prenderle sode'."
+    },
+    {
+        "hints": [
+            "fare",
+            "niente",
+            "fumetti",
+            "fogli",
+            "paura"
+        ],
+        "gold_sol": "storie",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "calda",
+            "acqua",
+            "morto",
+            "meno"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'fare' nell'espressione linguistica 'avere a che fare', ed infine si lega a 'paura' nell'espressione linguistica 'avere paura della propria ombra'."
+    },
+    {
+        "hints": [
+            "vita",
+            "brutta",
+            "automobile",
+            "risposta",
+            "tenère"
+        ],
+        "gold_sol": "botta",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "botta",
+            "avere",
+            "passare",
+            "tutto"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'vita' nell'espressione linguistica 'fare la bella vita', ed infine si lega a 'brutta' nell'espressione linguistica 'fare brutta figura'."
+    },
+    {
+        "hints": [
+            "copertina",
+            "dimensione",
+            "persona",
+            "seno",
+            "età"
+        ],
+        "gold_sol": "terza",
+        "pred_sol": "quarta",
+        "pred_sols_top5": [
+            "quarta",
+            "terza",
+            "prima",
+            "avere",
+            "bene"
+        ],
+        "generated_desc": "La parola 'QUARTA' è la soluzione corretta perché si lega a 'copertina' nell'espressione linguistica 'quarta di copertina', si lega a 'dimensione' nell'espressione linguistica 'quarta dimensione', ed infine si lega a 'età' nell'espressione linguistica 'quarta età'."
+    },
+    {
+        "hints": [
+            "caldo",
+            "fondo",
+            "uscire",
+            "serata",
+            "esame"
+        ],
+        "gold_sol": "tema",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "testa",
+            "prendere",
+            "punto",
+            "campo"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'caldo' nell'espressione linguistica 'fare la scoperta dell'acqua calda', si lega a 'fondo' nell'espressione linguistica 'fare fondamento', ed infine si lega a 'serata' nell'espressione linguistica 'fare sera'."
+    },
+    {
+        "hints": [
+            "canna",
+            "vita",
+            "maggiore",
+            "pistola",
+            "amico"
+        ],
+        "gold_sol": "cane",
+        "pred_sol": "miglior",
+        "pred_sols_top5": [
+            "miglior",
+            "conoscere",
+            "tamburo",
+            "ordine",
+            "colpo"
+        ],
+        "generated_desc": "La parola 'MIGLIOR' è la soluzione corretta perché si lega a 'vita' nell'espressione linguistica 'passare a miglior vita', ed infine forma con 'amico' il proverbio italiano 'Il miglior specchio è un amico vecchio'."
+    },
+    {
+        "hints": [
+            "porta",
+            "acqua",
+            "polvere",
+            "piatti",
+            "scaglie"
+        ],
+        "gold_sol": "sapone",
+        "pred_sol": "mettere",
+        "pred_sols_top5": [
+            "mettere",
+            "fuori",
+            "alta",
+            "proprio",
+            "casa"
+        ],
+        "generated_desc": "La parola 'METTERE' è la soluzione corretta perché si lega a 'porta' nell'espressione linguistica 'mettere alla porta', si lega a 'acqua' nell'espressione linguistica 'mettere acqua nel vino', ed infine si lega a 'piatti' nell'espressione linguistica 'mettere sul piatto della bilancia'."
+    },
+    {
+        "hints": [
+            "lampada",
+            "spaghetti",
+            "capelli",
+            "freni",
+            "bolognese"
+        ],
+        "gold_sol": "pinza",
+        "pred_sol": "mani",
+        "pred_sols_top5": [
+            "mani",
+            "bianco",
+            "fin",
+            "neon",
+            "stelo"
+        ],
+        "generated_desc": "La parola 'MANI' è la soluzione corretta perché si lega a 'capelli' nell'espressione linguistica 'mettersi le mani nei capelli', ed infine si lega a 'freni' nell'espressione linguistica 'freno a mano'."
+    },
+    {
+        "hints": [
+            "vita",
+            "aspettare",
+            "luce",
+            "star",
+            "civiltà"
+        ],
+        "gold_sol": "tramonto",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "passare",
+            "anno",
+            "tempo",
+            "fatti"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'vita' nell'espressione linguistica 'fare la bella vita', ed infine si lega a 'luce' nell'espressione linguistica 'fare luce'."
+    },
+    {
+        "hints": [
+            "giovanni xxiii",
+            "usare",
+            "italiano",
+            "terracotta",
+            "salvezza"
+        ],
+        "gold_sol": "esercito",
+        "pred_sol": "due",
+        "pred_sols_top5": [
+            "due",
+            "ancora",
+            "pesi",
+            "misure",
+            "testa"
+        ],
+        "generated_desc": "La parola 'DUE' è la soluzione corretta perché si lega a 'usare' nell'espressione linguistica 'usare due pesi e due misure'."
+    },
+    {
+        "hints": [
+            "ufficio",
+            "lettera",
+            "fare",
+            "data",
+            "velocità"
+        ],
+        "gold_sol": "cambio",
+        "pred_sol": "cambio",
+        "pred_sols_top5": [
+            "cambio",
+            "banco",
+            "atto",
+            "ore",
+            "buoni"
+        ],
+        "generated_desc": "La parola 'CAMBIO' è la soluzione corretta perché si lega a 'fare' nell'espressione linguistica 'fare a cambio', si lega a 'data' nell'espressione linguistica 'linea del cambiamento di data', ed infine si lega a 'velocità' nell'espressione linguistica 'cambio di velocità'."
+    },
+    {
+        "hints": [
+            "arte",
+            "acciaio",
+            "cappello",
+            "roccia",
+            "col"
+        ],
+        "gold_sol": "lana",
+        "pred_sol": "militare",
+        "pred_sols_top5": [
+            "militare",
+            "lana",
+            "chiodo",
+            "meccanica",
+            "moderna"
+        ],
+        "generated_desc": "La parola 'MILITARE' è la soluzione corretta perché si lega a 'arte' nell'espressione linguistica 'arte militare', ed infine si lega a 'cappello' nell'espressione linguistica 'cappellano militare'."
+    },
+    {
+        "hints": [
+            "corpo",
+            "fare",
+            "contro",
+            "bionda",
+            "niente"
+        ],
+        "gold_sol": "finta",
+        "pred_sol": "vena",
+        "pred_sols_top5": [
+            "vena",
+            "dare",
+            "avere",
+            "meno",
+            "buon"
+        ],
+        "generated_desc": "La parola 'VENA' è la soluzione corretta perché si lega a 'corpo' nell'espressione linguistica 'vena del corpo calloso', si lega a 'fare' nell'espressione linguistica 'far venire i capelli bianchi', ed infine si lega a 'niente' nell'espressione linguistica 'venire dal niente'."
+    },
+    {
+        "hints": [
+            "orchestra",
+            "meno",
+            "oggi",
+            "largo",
+            "leoni"
+        ],
+        "gold_sol": "giovani",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "lungo",
+            "avere",
+            "mani",
+            "giovani"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'meno' nell'espressione linguistica 'fare a meno', si lega a 'largo' nell'espressione linguistica 'fare largo', ed infine si lega a 'leoni' nell'espressione linguistica 'fare la parte del leone'."
+    },
+    {
+        "hints": [
+            "guerra",
+            "dono",
+            "notte",
+            "medico",
+            "europa"
+        ],
+        "gold_sol": "consiglio",
+        "pred_sol": "prima",
+        "pred_sols_top5": [
+            "prima",
+            "guarda",
+            "portare",
+            "consiglio",
+            "bollettino"
+        ],
+        "generated_desc": "La parola 'PRIMA' è la soluzione corretta perché si lega a 'guerra' nell'espressione linguistica 'prima guerra mondiale', ed infine si lega a 'notte' nell'espressione linguistica 'prima notte'."
+    },
+    {
+        "hints": [
+            "ore",
+            "pesante",
+            "cura",
+            "arretrato",
+            "cascare"
+        ],
+        "gold_sol": "sonno",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "fare",
+            "medico",
+            "nessun",
+            "centocinquanta"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'ore' nell'espressione linguistica 'avere le ore contate', si lega a 'pesante' nell'espressione linguistica 'avere la mano pesante', ed infine si lega a 'cura' nell'espressione linguistica 'avere cura'."
+    },
+    {
+        "hints": [
+            "lana",
+            "gruppo",
+            "capitale",
+            "matrimonio",
+            "doppio"
+        ],
+        "gold_sol": "misto",
+        "pred_sol": "misto",
+        "pred_sols_top5": [
+            "misto",
+            "sociale",
+            "vetro",
+            "lavoro",
+            "filo"
+        ],
+        "generated_desc": "La parola 'MISTO' è la soluzione corretta perché si lega a 'lana' nell'espressione linguistica 'misto lana', si lega a 'gruppo' nell'espressione linguistica 'gruppo misto', si lega a 'matrimonio' nell'espressione linguistica 'matrimonio misto', ed infine si lega a 'doppio' nell'espressione linguistica 'doppio misto'."
+    },
+    {
+        "hints": [
+            "chiudere",
+            "vita",
+            "occhi",
+            "luce",
+            "lega"
+        ],
+        "gold_sol": "cerchio",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "dare",
+            "colpo",
+            "senza",
+            "solo"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'vita' nell'espressione linguistica 'fare la bella vita', si lega a 'occhi' nell'espressione linguistica 'fare gli occhi dolci', ed infine si lega a 'luce' nell'espressione linguistica 'fare luce'."
+    },
+    {
+        "hints": [
+            "fare",
+            "luce",
+            "porto",
+            "sostegno",
+            "tiro"
+        ],
+        "gold_sol": "palo",
+        "pred_sol": "venire",
+        "pred_sols_top5": [
+            "venire",
+            "avanti",
+            "fuori",
+            "acqua",
+            "buon"
+        ],
+        "generated_desc": "La parola 'VENIRE' è la soluzione corretta perché si lega a 'fare' nell'espressione linguistica 'far venire i capelli bianchi', si lega a 'luce' nell'espressione linguistica 'venire alla luce', si lega a 'porto' nell'espressione linguistica 'vena porta', ed infine si lega a 'tiro' nell'espressione linguistica 'venire a tiro'."
+    },
+    {
+        "hints": [
+            "marinaio",
+            "secco",
+            "fortuna",
+            "gelato",
+            "due volte"
+        ],
+        "gold_sol": "biscotto",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "colpo",
+            "voltare",
+            "int",
+            "ognuno"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'secco' nell'espressione linguistica 'fare secco', ed infine si lega a 'fortuna' nell'espressione linguistica 'fare fortuna'."
+    },
+    {
+        "hints": [
+            "borsa",
+            "andare",
+            "delegazione",
+            "vita",
+            "rosa"
+        ],
+        "gold_sol": "spiaggia",
+        "pred_sol": "giro",
+        "pred_sols_top5": [
+            "giro",
+            "verso",
+            "lungo",
+            "venire",
+            "chiusura"
+        ],
+        "generated_desc": "La parola 'GIRO' è la soluzione corretta perché si lega a 'andare' nell'espressione linguistica 'andare in giro', ed infine si lega a 'vita' nell'espressione linguistica 'giro di vite'."
+    },
+    {
+        "hints": [
+            "grande",
+            "padre",
+            "segnale",
+            "sguardo",
+            "malattia"
+        ],
+        "gold_sol": "assente",
+        "pred_sol": "piccolo",
+        "pred_sols_top5": [
+            "piccolo",
+            "nessun",
+            "ozio",
+            "sparlato",
+            "quarta"
+        ],
+        "generated_desc": "La parola 'PICCOLO' è la soluzione corretta perché forma con 'grande' il proverbio italiano 'Quando il piccolo parla il grande ha sparlato', ed infine si lega a 'padre' nell'espressione linguistica 'piccolo padre'."
+    },
+    {
+        "hints": [
+            "andare",
+            "campanile",
+            "scuola",
+            "tavola",
+            "maestra"
+        ],
+        "gold_sol": "vela",
+        "pred_sol": "elementare",
+        "pred_sols_top5": [
+            "elementare",
+            "vela",
+            "primo",
+            "gradi",
+            "strada"
+        ],
+        "generated_desc": "La parola 'ELEMENTARE' è la soluzione corretta perché si lega a 'scuola' nell'espressione linguistica 'scuola elementare', si lega a 'tavola' nell'espressione linguistica 'tavola periodica degli elementi', ed infine si lega a 'maestra' nell'espressione linguistica 'maestro elementare'."
+    },
+    {
+        "hints": [
+            "gruppo",
+            "pericolo",
+            "calcio",
+            "entrare",
+            "fatto"
+        ],
+        "gold_sol": "società",
+        "pred_sol": "faro",
+        "pred_sols_top5": [
+            "faro",
+            "gioco",
+            "essere",
+            "campo",
+            "società"
+        ],
+        "generated_desc": "La parola 'FARO' è la soluzione corretta perché si lega a 'pericolo' nell'espressione linguistica 'faro di pericolo', si lega a 'entrare' nell'espressione linguistica 'entrare a far parte', ed infine si lega a 'fatto' nell'espressione linguistica 'fare i fatti'."
+    },
+    {
+        "hints": [
+            "difetto",
+            "dipinto",
+            "danno",
+            "auto",
+            "attestato"
+        ],
+        "gold_sol": "stima",
+        "pred_sol": "meno",
+        "pred_sols_top5": [
+            "meno",
+            "donn",
+            "dice",
+            "apprensione",
+            "qualità"
+        ],
+        "generated_desc": "La parola 'MENO' è la soluzione corretta perché forma con 'difetto' il proverbio italiano 'Sono meno ridicoli i difetti che le qualità che non abbiamo'."
+    },
+    {
+        "hints": [
+            "orbita",
+            "biglietto",
+            "pettine",
+            "interno",
+            "manovra"
+        ],
+        "gold_sol": "parcheggio",
+        "pred_sol": "sempre",
+        "pred_sols_top5": [
+            "sempre",
+            "vengono",
+            "avere",
+            "fuori",
+            "visita"
+        ],
+        "generated_desc": "La parola 'SEMPRE' è la soluzione corretta perché forma con 'pettine' il proverbio italiano 'Lava cane, pettina cane, sempre di cane puzza'."
+    },
+    {
+        "hints": [
+            "metà",
+            "luna",
+            "lungo",
+            "riprendere",
+            "san francesco"
+        ],
+        "gold_sol": "cammino",
+        "pred_sol": "chiaro",
+        "pred_sols_top5": [
+            "chiaro",
+            "andare",
+            "fare",
+            "cose",
+            "piede"
+        ],
+        "generated_desc": "La parola 'CHIARO' è la soluzione corretta perché si lega a 'luna' nell'espressione linguistica 'chiaro di luna', ed infine forma con 'lungo' il proverbio italiano 'Patti chiari, amicizia lunga'."
+    },
+    {
+        "hints": [
+            "cosa",
+            "testa",
+            "segreto",
+            "impresa",
+            "grande"
+        ],
+        "gold_sol": "successo",
+        "pred_sol": "stato",
+        "pred_sols_top5": [
+            "stato",
+            "via",
+            "buone",
+            "tante",
+            "vino"
+        ],
+        "generated_desc": "La parola 'STATO' è la soluzione corretta perché si lega a 'cosa' nell'espressione linguistica 'stato di cose', ed infine si lega a 'segreto' nell'espressione linguistica 'segreto di stato'."
+    },
+    {
+        "hints": [
+            "pagare",
+            "casa",
+            "spirito",
+            "costo",
+            "modo"
+        ],
+        "gold_sol": "persona",
+        "pred_sol": "ogni",
+        "pred_sols_top5": [
+            "ogni",
+            "tutti",
+            "sotto",
+            "andar",
+            "sempre"
+        ],
+        "generated_desc": "La parola 'OGNI' è la soluzione corretta perché si lega a 'casa' nell'espressione linguistica 'in ogni caso', si lega a 'costo' nell'espressione linguistica 'a ogni costo', ed infine si lega a 'modo' nell'espressione linguistica 'a, in ogni modo'."
+    },
+    {
+        "hints": [
+            "preparare",
+            "incontro",
+            "perdere",
+            "piacere",
+            "lotto"
+        ],
+        "gold_sol": "terreno",
+        "pred_sol": "terreno",
+        "pred_sols_top5": [
+            "terreno",
+            "vinca",
+            "vita",
+            "bello",
+            "far"
+        ],
+        "generated_desc": "La parola 'TERRENO' è la soluzione corretta perché si lega a 'preparare' nell'espressione linguistica 'preparare il terreno', è storicamente associata a 'incontro' nelle precedenti edizioni del gioco, ed infine si lega a 'perdere' nell'espressione linguistica 'perdere terreno'."
+    },
+    {
+        "hints": [
+            "operaio",
+            "consiglio",
+            "bene",
+            "senza",
+            "latino"
+        ],
+        "gold_sol": "quartiere",
+        "pred_sol": "quartiere",
+        "pred_sols_top5": [
+            "quartiere",
+            "famiglia",
+            "buon",
+            "fare",
+            "ministri"
+        ],
+        "generated_desc": "La parola 'QUARTIERE' è la soluzione corretta perché si lega a 'operaio' nell'espressione linguistica 'quartiere operaio', si lega a 'consiglio' nell'espressione linguistica 'consiglio di quartiere', si lega a 'senza' nell'espressione linguistica 'lotta senza quartiere', ed infine si lega a 'latino' nell'espressione linguistica 'quartiere latino'."
+    },
+    {
+        "hints": [
+            "pagina",
+            "portare",
+            "gente",
+            "legge",
+            "natura"
+        ],
+        "gold_sol": "rispetto",
+        "pred_sol": "mettere",
+        "pred_sols_top5": [
+            "mettere",
+            "proprio",
+            "cielo",
+            "mano",
+            "aiuto"
+        ],
+        "generated_desc": "La parola 'METTERE' è la soluzione corretta perché si lega a 'pagina' nell'espressione linguistica 'mettere in pagina', si lega a 'portare' nell'espressione linguistica 'mettere alla porta', ed infine si lega a 'legge' nell'espressione linguistica 'mettere fuori legge'."
+    },
+    {
+        "hints": [
+            "dolce",
+            "male",
+            "paura",
+            "personale",
+            "finta"
+        ],
+        "gold_sol": "niente",
+        "pred_sol": "far",
+        "pred_sols_top5": [
+            "far",
+            "niente",
+            "cura",
+            "parole",
+            "nessuno"
+        ],
+        "generated_desc": "La parola 'FAR' è la soluzione corretta perché si lega a 'dolce' nell'espressione linguistica 'dolce far niente', si lega a 'male' nell'espressione linguistica 'fare male', è storicamente associata a 'paura' nelle precedenti edizioni del gioco, ed infine si lega a 'finta' nell'espressione linguistica 'fare finta'."
+    },
+    {
+        "hints": [
+            "largo",
+            "x",
+            "onda",
+            "luce",
+            "ruota"
+        ],
+        "gold_sol": "raggio",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "mettere",
+            "essere",
+            "lungo",
+            "riflessa"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'largo' nell'espressione linguistica 'fare largo', si lega a 'luce' nell'espressione linguistica 'fare luce', ed infine si lega a 'ruota' nell'espressione linguistica 'fare la ruota'."
+    },
+    {
+        "hints": [
+            "occhio",
+            "valori",
+            "olio",
+            "pentola",
+            "fiscale"
+        ],
+        "gold_sol": "pressione",
+        "pred_sol": "essere",
+        "pred_sols_top5": [
+            "essere",
+            "condire",
+            "pressione",
+            "cavallo",
+            "mettere"
+        ],
+        "generated_desc": "La parola 'ESSERE' è la soluzione corretta perché si lega a 'occhio' nell'espressione linguistica 'essere nell'occhio del ciclone', ed infine si lega a 'pentola' nell'espressione linguistica 'essere una pentola di fagioli'."
+    },
+    {
+        "hints": [
+            "tetto",
+            "tom",
+            "tronchi",
+            "pancia",
+            "cuori"
+        ],
+        "gold_sol": "capanna",
+        "pred_sol": "bocca",
+        "pred_sols_top5": [
+            "bocca",
+            "mettere",
+            "senza",
+            "sotto",
+            "mano"
+        ],
+        "generated_desc": "La parola 'BOCCA' è la soluzione corretta perché si lega a 'tronchi' nell'espressione linguistica 'troncare le parole in bocca', ed infine forma con 'cuori' il proverbio italiano 'Bacio di bocca spesso cuor non tocca'."
+    },
+    {
+        "hints": [
+            "neve",
+            "diego",
+            "cavalcare",
+            "reale",
+            "uomo"
+        ],
+        "gold_sol": "tigre",
+        "pred_sol": "casa",
+        "pred_sols_top5": [
+            "casa",
+            "tigre",
+            "memoria",
+            "passivo",
+            "parte"
+        ],
+        "generated_desc": "La parola 'CASA' è la soluzione corretta perché si lega a 'reale' nell'espressione linguistica 'real casa', ed infine forma con 'uomo' il proverbio italiano 'In casa di galantuomo nasce prima la femmina e poi l'uomo'."
+    },
+    {
+        "hints": [
+            "gioco",
+            "pubblico",
+            "rosso",
+            "interno",
+            "libero"
+        ],
+        "gold_sol": "telefono",
+        "pred_sol": "telefono",
+        "pred_sols_top5": [
+            "telefono",
+            "locale",
+            "bel",
+            "essere",
+            "tempo"
+        ],
+        "generated_desc": "La parola 'TELEFONO' è la soluzione corretta perché si lega a 'pubblico' nell'espressione linguistica 'telefono pubblico', si lega a 'rosso' nell'espressione linguistica 'telefono rosso', ed infine si lega a 'interno' nell'espressione linguistica 'telefono interno'."
+    },
+    {
+        "hints": [
+            "classe",
+            "vivo",
+            "uomo",
+            "lavoro",
+            "monaco"
+        ],
+        "gold_sol": "abito",
+        "pred_sol": "tocco",
+        "pred_sols_top5": [
+            "tocco",
+            "dio",
+            "farsi",
+            "mondo",
+            "economica"
+        ],
+        "generated_desc": "La parola 'TOCCO' è la soluzione corretta perché si lega a 'classe' nell'espressione linguistica 'tocco di classe', si lega a 'vivo' nell'espressione linguistica 'toccare nel, sul vivo', ed infine forma con 'uomo' il proverbio italiano 'Finché l'uomo ha denti in bocca, non sa mai quel che gli tocca'."
+    },
+    {
+        "hints": [
+            "spugna",
+            "mele",
+            "madre",
+            "bianco",
+            "sotto"
+        ],
+        "gold_sol": "aceto",
+        "pred_sol": "terra",
+        "pred_sols_top5": [
+            "terra",
+            "casa",
+            "voce",
+            "mettere",
+            "passare"
+        ],
+        "generated_desc": "La parola 'TERRA' è la soluzione corretta perché si lega a 'madre' nell'espressione linguistica 'madre terra', si lega a 'bianco' nell'espressione linguistica 'terra bianca', ed infine si lega a 'sotto' nell'espressione linguistica 'bruciare la terra sotto i piedi'."
+    },
+    {
+        "hints": [
+            "prova",
+            "contro",
+            "comune",
+            "medio",
+            "atto"
+        ],
+        "gold_sol": "valore",
+        "pred_sol": "mettere",
+        "pred_sols_top5": [
+            "mettere",
+            "massa",
+            "valutazione",
+            "dare",
+            "fede"
+        ],
+        "generated_desc": "La parola 'METTERE' è la soluzione corretta perché si lega a 'prova' nell'espressione linguistica 'mettere alla prova', si lega a 'comune' nell'espressione linguistica 'mettere in comune', ed infine si lega a 'atto' nell'espressione linguistica 'mettere in atto'."
+    },
+    {
+        "hints": [
+            "flash",
+            "pino",
+            "dimenticare",
+            "sotto",
+            "stecche"
+        ],
+        "gold_sol": "ombrello",
+        "pred_sol": "passare",
+        "pred_sols_top5": [
+            "passare",
+            "olio",
+            "buona",
+            "voce",
+            "forma"
+        ],
+        "generated_desc": "La parola 'PASSARE' è la soluzione corretta perché si lega a 'sotto' nell'espressione linguistica 'passare sotto silenzio', ed infine si lega a 'stecche' nell'espressione linguistica 'passare la stecca'."
+    },
+    {
+        "hints": [
+            "medicina",
+            "luce",
+            "nazionale",
+            "corsia",
+            "uscita"
+        ],
+        "gold_sol": "emergenza",
+        "pred_sol": "consiglio",
+        "pred_sols_top5": [
+            "consiglio",
+            "tempo",
+            "via",
+            "liberazione",
+            "fare"
+        ],
+        "generated_desc": "La parola 'CONSIGLIO' è la soluzione corretta perché si lega a 'nazionale' nell'espressione linguistica 'consiglio nazionale dell’economia e del lavoro', ed infine si lega a 'corsia' nell'espressione linguistica 'consiglio di corso di laurea'."
+    },
+    {
+        "hints": [
+            "carta",
+            "persona",
+            "forza",
+            "prova",
+            "attività"
+        ],
+        "gold_sol": "fisica",
+        "pred_sol": "tutte",
+        "pred_sols_top5": [
+            "tutte",
+            "servizio",
+            "fisica",
+            "libera",
+            "mano"
+        ],
+        "generated_desc": "La parola 'TUTTE' è la soluzione corretta perché si lega a 'carta' nell'espressione linguistica 'giocare tutte le proprie carte', si lega a 'forza' nell'espressione linguistica 'a tutta forza', ed infine si lega a 'prova' nell'espressione linguistica 'a tutta prova'."
+    },
+    {
+        "hints": [
+            "bar",
+            "moneta",
+            "avanti",
+            "acquisti",
+            "abbassare"
+        ],
+        "gold_sol": "carrello",
+        "pred_sol": "tirare",
+        "pred_sols_top5": [
+            "tirare",
+            "fuga",
+            "ora",
+            "battere",
+            "portare"
+        ],
+        "generated_desc": "La parola 'TIRARE' è la soluzione corretta perché si lega a 'avanti' nell'espressione linguistica 'tirare avanti', ed infine si lega a 'abbassare' nell'espressione linguistica 'abbassare il tiro'."
+    },
+    {
+        "hints": [
+            "tirare",
+            "zucchero",
+            "consegna",
+            "sorpresa",
+            "x"
+        ],
+        "gold_sol": "pacco",
+        "pred_sol": "fila",
+        "pred_sols_top5": [
+            "fila",
+            "pronta",
+            "vanigliato",
+            "brutto",
+            "sollievo"
+        ],
+        "generated_desc": "La parola 'FILA' è la soluzione corretta perché si lega a 'tirare' nell'espressione linguistica 'tirare le fila', ed infine si lega a 'zucchero' nell'espressione linguistica 'zucchero filato'."
+    },
+    {
+        "hints": [
+            "vetro",
+            "benzina",
+            "piedi",
+            "cintura",
+            "sigillo"
+        ],
+        "gold_sol": "piombo",
+        "pred_sol": "sicurezza",
+        "pred_sols_top5": [
+            "sicurezza",
+            "sotto",
+            "palla",
+            "fuoco",
+            "andò"
+        ],
+        "generated_desc": "La parola 'SICUREZZA' è la soluzione corretta perché si lega a 'vetro' nell'espressione linguistica 'vetro di sicurezza', ed infine si lega a 'cintura' nell'espressione linguistica 'cintura di sicurezza'."
+    },
+    {
+        "hints": [
+            "personale",
+            "mezzo",
+            "fazzoletto",
+            "paradiso",
+            "pancia"
+        ],
+        "gold_sol": "terra",
+        "pred_sol": "mal",
+        "pred_sols_top5": [
+            "mal",
+            "terra",
+            "mettere",
+            "servizio",
+            "punta"
+        ],
+        "generated_desc": "La parola 'MAL' è la soluzione corretta perché forma con 'mezzo' il proverbio italiano 'Mal comune, mezzo gaudio', ed infine si lega a 'pancia' nell'espressione linguistica 'mal di pancia'."
+    },
+    {
+        "hints": [
+            "scrivere",
+            "rosso",
+            "colori",
+            "luce",
+            "inchiesta"
+        ],
+        "gold_sol": "film",
+        "pred_sol": "film",
+        "pred_sols_top5": [
+            "film",
+            "locale",
+            "bianco",
+            "filtro",
+            "vedere"
+        ],
+        "generated_desc": "La parola 'FILM' è la soluzione corretta perché si lega a 'rosso' nell'espressione linguistica 'film a luci rosse', si lega a 'colori' nell'espressione linguistica 'film a colori', ed infine si lega a 'luce' nell'espressione linguistica 'film Luce'."
+    },
+    {
+        "hints": [
+            "senza",
+            "domenica",
+            "soldato",
+            "mobile",
+            "carriera"
+        ],
+        "gold_sol": "donna",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "buono",
+            "conti",
+            "tanti",
+            "scalo"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'senza' nell'espressione linguistica 'fare i conti senza l’oste', si lega a 'soldato' nell'espressione linguistica 'fare soldi', ed infine si lega a 'carriera' nell'espressione linguistica 'fare carriera'."
+    },
+    {
+        "hints": [
+            "passaggio",
+            "pieno",
+            "scena",
+            "spese",
+            "italia"
+        ],
+        "gold_sol": "centro",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "voce",
+            "avere",
+            "mani",
+            "regola"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'pieno' nell'espressione linguistica 'fare il pieno', si lega a 'scena' nell'espressione linguistica 'fare scena', ed infine si lega a 'spese' nell'espressione linguistica 'fare la spesa'."
+    },
+    {
+        "hints": [
+            "più",
+            "vendere",
+            "conto",
+            "buona",
+            "palazzo"
+        ],
+        "gold_sol": "ragione",
+        "pred_sol": "senza",
+        "pred_sols_top5": [
+            "senza",
+            "mettere",
+            "punto",
+            "avere",
+            "sapersi"
+        ],
+        "generated_desc": "La parola 'SENZA' è la soluzione corretta perché forma con 'vendere' il proverbio italiano 'Il vino buono si vende senza frasca', si lega a 'conto' nell'espressione linguistica 'fare i conti senza l’oste', ed infine forma con 'buona' il proverbio italiano 'Il vino buono si vende senza frasca'."
+    },
+    {
+        "hints": [
+            "giorno",
+            "gioco",
+            "macchina",
+            "giuramento",
+            "dico"
+        ],
+        "gold_sol": "verità",
+        "pred_sol": "buon",
+        "pred_sols_top5": [
+            "buon",
+            "fare",
+            "sala",
+            "poco",
+            "bel"
+        ],
+        "generated_desc": "La parola 'BUON' è la soluzione corretta perché si lega a 'giorno' nell'espressione linguistica 'buon giorno', ed infine si lega a 'gioco' nell'espressione linguistica 'avere buon gioco'."
+    },
+    {
+        "hints": [
+            "brutto",
+            "andare",
+            "farina",
+            "fretta",
+            "casa"
+        ],
+        "gold_sol": "diavolo",
+        "pred_sol": "tutto",
+        "pred_sols_top5": [
+            "tutto",
+            "fare",
+            "diavolo",
+            "proprio",
+            "bianco"
+        ],
+        "generated_desc": "La parola 'TUTTO' è la soluzione corretta perché forma con 'brutto' il proverbio italiano 'Quando tutto è di tutti, i tempi sono brutti', si lega a 'andare' nell'espressione linguistica 'andare per le mani di tutti', forma con 'farina' il proverbio italiano 'La farina del diavolo va tutta in crusca', si lega a 'fretta' nell'espressione linguistica 'in tutta fretta', ed infine si lega a 'casa' nell'espressione linguistica 'in tutti i casi'."
+    },
+    {
+        "hints": [
+            "prova",
+            "cobra",
+            "tartaruga",
+            "goccia",
+            "elton john"
+        ],
+        "gold_sol": "occhiali",
+        "pred_sol": "fino",
+        "pred_sols_top5": [
+            "fino",
+            "mettere",
+            "nove",
+            "scava",
+            "banco"
+        ],
+        "generated_desc": "La parola 'FINO' è la soluzione corretta perché si lega a 'prova' nell'espressione linguistica 'fino a prova contraria', ed infine si lega a 'goccia' nell'espressione linguistica 'fino all’ultima goccia'."
+    },
+    {
+        "hints": [
+            "essere",
+            "coppia",
+            "sala",
+            "liscio",
+            "salsa"
+        ],
+        "gold_sol": "ballo",
+        "pred_sol": "fatti",
+        "pred_sols_top5": [
+            "fatti",
+            "tutto",
+            "rosa",
+            "ballo",
+            "parte"
+        ],
+        "generated_desc": "La parola 'FATTI' è la soluzione corretta perché si lega a 'essere' nell'espressione linguistica 'essere fatti della stessa pasta', si lega a 'coppia' nell'espressione linguistica 'coppia di fatto', ed infine forma con 'sala' il proverbio italiano 'Il mondo è fatto a scale, c'è chi scende e c'è chi sale'."
+    },
+    {
+        "hints": [
+            "animale",
+            "naturale",
+            "bere",
+            "colpo",
+            "nostromo"
+        ],
+        "gold_sol": "spugna",
+        "pred_sol": "vita",
+        "pred_sols_top5": [
+            "vita",
+            "figlio",
+            "scienza",
+            "genere",
+            "occhi"
+        ],
+        "generated_desc": "La parola 'VITA' è la soluzione corretta perché si lega a 'naturale' nell'espressione linguistica 'vita natural durante', ed infine si lega a 'colpo' nell'espressione linguistica 'colpo di vita'."
+    },
+    {
+        "hints": [
+            "gioco",
+            "trovare",
+            "fuori",
+            "dollaro",
+            "quadrato"
+        ],
+        "gold_sol": "area",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "fare",
+            "pericoloso",
+            "testa",
+            "essere"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'gioco' nell'espressione linguistica 'avere buon gioco', si lega a 'fuori' nell'espressione linguistica 'avere qualche rotella fuori posto', ed infine si lega a 'quadrato' nell'espressione linguistica 'avere le spalle quadrate'."
+    },
+    {
+        "hints": [
+            "bel",
+            "che",
+            "comune",
+            "famiglia",
+            "stereo"
+        ],
+        "gold_sol": "tipo",
+        "pred_sol": "mezzo",
+        "pred_sols_top5": [
+            "mezzo",
+            "nome",
+            "consiglio",
+            "mettere",
+            "lingua"
+        ],
+        "generated_desc": "La parola 'MEZZO' è la soluzione corretta perché si lega a 'bel' nell'espressione linguistica 'nel bel mezzo di', ed infine si lega a 'comune' nell'espressione linguistica 'mezzi di comunicazione'."
+    },
+    {
+        "hints": [
+            "successo",
+            "contatto",
+            "pericolo",
+            "aperto",
+            "mezzo"
+        ],
+        "gold_sol": "pubblico",
+        "pred_sol": "pubblico",
+        "pred_sols_top5": [
+            "pubblico",
+            "essere",
+            "mettersi",
+            "tutto",
+            "bocca"
+        ],
+        "generated_desc": "La parola 'PUBBLICO' è la soluzione corretta perché è storicamente associata a 'contatto' nelle precedenti edizioni del gioco, si lega a 'pericolo' nell'espressione linguistica 'pericolo pubblico', si lega a 'aperto' nell'espressione linguistica 'luogo aperto al pubblico', ed infine si lega a 'mezzo' nell'espressione linguistica 'mezzo pubblico'."
+    },
+    {
+        "hints": [
+            "aereo",
+            "scuola",
+            "tribunale",
+            "carriera",
+            "vita"
+        ],
+        "gold_sol": "militare",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "trascinare",
+            "pubblica",
+            "campo",
+            "militare"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'scuola' nell'espressione linguistica 'fare scuola', si lega a 'carriera' nell'espressione linguistica 'fare carriera', ed infine si lega a 'vita' nell'espressione linguistica 'fare la bella vita'."
+    },
+    {
+        "hints": [
+            "numero",
+            "bianco",
+            "cavalli",
+            "festival",
+            "famiglie"
+        ],
+        "gold_sol": "circo",
+        "pred_sol": "sporco",
+        "pred_sols_top5": [
+            "sporco",
+            "coda",
+            "mettere",
+            "punto",
+            "casa"
+        ],
+        "generated_desc": "La parola 'SPORCO' è la soluzione corretta perché si lega a 'bianco' nell'espressione linguistica 'bianco sporco', ed infine si lega a 'famiglie' nell'espressione linguistica 'lavare i panni sporchi in famiglia'."
+    },
+    {
+        "hints": [
+            "auto",
+            "ragazza",
+            "andare",
+            "militare",
+            "coda"
+        ],
+        "gold_sol": "treno",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "strada",
+            "testa",
+            "capo",
+            "pari"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'andare' nell'espressione linguistica 'andare a fare in culo', si lega a 'militare' nell'espressione linguistica 'fare il militare', ed infine si lega a 'coda' nell'espressione linguistica 'fare la coda'."
+    },
+    {
+        "hints": [
+            "ingresso",
+            "discesa",
+            "stilo",
+            "marconi",
+            "tetto"
+        ],
+        "gold_sol": "antenna",
+        "pred_sol": "libero",
+        "pred_sols_top5": [
+            "libero",
+            "massimo",
+            "abbandono",
+            "grande",
+            "senza"
+        ],
+        "generated_desc": "La parola 'LIBERO' è la soluzione corretta perché si lega a 'ingresso' nell'espressione linguistica 'ingresso libero', si lega a 'discesa' nell'espressione linguistica 'discesa libera', ed infine si lega a 'stilo' nell'espressione linguistica 'stile libero'."
+    },
+    {
+        "hints": [
+            "caro",
+            "dolce",
+            "re",
+            "borsa",
+            "senatore"
+        ],
+        "gold_sol": "vita",
+        "pred_sol": "vita",
+        "pred_sols_top5": [
+            "vita",
+            "cavallo",
+            "merci",
+            "ingannano",
+            "affare"
+        ],
+        "generated_desc": "La parola 'VITA' è la soluzione corretta perché si lega a 'caro' nell'espressione linguistica 'vendere cara la vita', ed infine si lega a 'dolce' nell'espressione linguistica 'dolce vita'."
+    },
+    {
+        "hints": [
+            "posizione",
+            "scorta",
+            "viaggio",
+            "officina",
+            "bianca"
+        ],
+        "gold_sol": "nave",
+        "pred_sol": "luce",
+        "pred_sols_top5": [
+            "luce",
+            "morte",
+            "finisce",
+            "venire",
+            "vicina"
+        ],
+        "generated_desc": "La parola 'LUCE' è la soluzione corretta perché si lega a 'posizione' nell'espressione linguistica 'luce di posizione', ed infine si lega a 'bianca' nell'espressione linguistica 'luce bianca'."
+    },
+    {
+        "hints": [
+            "festa",
+            "tutta",
+            "salsicce",
+            "monaci",
+            "fusto"
+        ],
+        "gold_sol": "birra",
+        "pred_sol": "casa",
+        "pred_sols_top5": [
+            "casa",
+            "santi",
+            "pianta",
+            "fare",
+            "dì"
+        ],
+        "generated_desc": "La parola 'CASA' è la soluzione corretta perché forma con 'festa' il proverbio italiano 'A casa dei poltroni è sempre festa', ed infine si lega a 'tutta' nell'espressione linguistica 'in tutti i casi'."
+    },
+    {
+        "hints": [
+            "amore",
+            "vita",
+            "casa",
+            "coltivare",
+            "brutto"
+        ],
+        "gold_sol": "sogno",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "donna",
+            "tutto",
+            "senza",
+            "proprio"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'vita' nell'espressione linguistica 'fare la bella vita', si lega a 'casa' nell'espressione linguistica 'fare al caso', ed infine si lega a 'brutto' nell'espressione linguistica 'fare brutta figura'."
+    },
+    {
+        "hints": [
+            "punizione",
+            "lancio",
+            "orchestra",
+            "man",
+            "commercio"
+        ],
+        "gold_sol": "camera",
+        "pred_sol": "camera",
+        "pred_sols_top5": [
+            "camera",
+            "mettere",
+            "buon",
+            "resta",
+            "fare"
+        ],
+        "generated_desc": "La parola 'CAMERA' è la soluzione corretta perché si lega a 'punizione' nell'espressione linguistica 'camera di punizione', si lega a 'lancio' nell'espressione linguistica 'camera di lancio', si lega a 'orchestra' nell'espressione linguistica 'orchestra da camera', ed infine si lega a 'commercio' nell'espressione linguistica 'camera di commercio'."
+    },
+    {
+        "hints": [
+            "caffè",
+            "arte",
+            "pantaloni",
+            "gassman",
+            "casa"
+        ],
+        "gold_sol": "bottega",
+        "pred_sol": "bianco",
+        "pred_sols_top5": [
+            "bianco",
+            "portare",
+            "turca",
+            "vetro",
+            "fortuito"
+        ],
+        "generated_desc": "La parola 'BIANCO' è la soluzione corretta perché si lega a 'caffè' nell'espressione linguistica 'caffè bianco', ed infine si lega a 'casa' nell'espressione linguistica 'Casa Bianca'."
+    },
+    {
+        "hints": [
+            "perdere",
+            "fantasia",
+            "manuale",
+            "diretto",
+            "angelo"
+        ],
+        "gold_sol": "volo",
+        "pred_sol": "treno",
+        "pred_sols_top5": [
+            "treno",
+            "acqua",
+            "ragione",
+            "punti",
+            "filo"
+        ],
+        "generated_desc": "La parola 'TRENO' è la soluzione corretta perché si lega a 'perdere' nell'espressione linguistica 'perdere il treno', ed infine si lega a 'diretto' nell'espressione linguistica 'treno diretto'."
+    },
+    {
+        "hints": [
+            "mettere",
+            "via",
+            "camere",
+            "essere",
+            "mezzo"
+        ],
+        "gold_sol": "comunicazione",
+        "pred_sol": "strette",
+        "pred_sols_top5": [
+            "strette",
+            "punto",
+            "comune",
+            "bocca",
+            "parola"
+        ],
+        "generated_desc": "La parola 'STRETTE' è la soluzione corretta perché si lega a 'mettere' nell'espressione linguistica 'mettere alle strette', forma con 'via' il proverbio italiano 'Stretta la foglia, larga la via, dite la vostra che ho detto la mia', ed infine si lega a 'essere' nell'espressione linguistica 'essere alle strette'."
+    },
+    {
+        "hints": [
+            "uomo",
+            "parola",
+            "piano",
+            "personale",
+            "ambiente"
+        ],
+        "gold_sol": "difesa",
+        "pred_sol": "mezzo",
+        "pred_sols_top5": [
+            "mezzo",
+            "rinforza",
+            "crede",
+            "buon",
+            "esce"
+        ],
+        "generated_desc": "La parola 'MEZZO' è la soluzione corretta perché si lega a 'uomo' nell'espressione linguistica 'mezzo uomo', si lega a 'parola' nell'espressione linguistica 'mezza parola', ed infine si lega a 'piano' nell'espressione linguistica 'mezzo primo piano'."
+    },
+    {
+        "hints": [
+            "tempo",
+            "essere",
+            "cavalli",
+            "scarpe",
+            "ultima"
+        ],
+        "gold_sol": "corsa",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "piede",
+            "due",
+            "fino",
+            "fuori"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'tempo' nell'espressione linguistica 'non avere tempo', si lega a 'scarpe' nell'espressione linguistica 'avere il cervello nelle scarpe', ed infine si lega a 'ultima' nell'espressione linguistica 'avere l'ultima parola'."
+    },
+    {
+        "hints": [
+            "pioggia",
+            "herrera",
+            "simon",
+            "cappello",
+            "tarocchi"
+        ],
+        "gold_sol": "mago",
+        "pred_sol": "tanto",
+        "pred_sols_top5": [
+            "tanto",
+            "int",
+            "maestro",
+            "cielo",
+            "catinelle"
+        ],
+        "generated_desc": "La parola 'TANTO' è la soluzione corretta perché si lega a 'cappello' nell'espressione linguistica 'tanto di cappello'."
+    },
+    {
+        "hints": [
+            "arancia",
+            "calare",
+            "allarme",
+            "grotta",
+            "ondata"
+        ],
+        "gold_sol": "gelo",
+        "pred_sol": "falso",
+        "pred_sols_top5": [
+            "falso",
+            "stato",
+            "greche",
+            "fiori",
+            "presso"
+        ],
+        "generated_desc": "La parola 'FALSO' è la soluzione corretta perché si lega a 'allarme' nell'espressione linguistica 'falso allarme'."
+    },
+    {
+        "hints": [
+            "pubblico",
+            "durata",
+            "dare",
+            "calciatore",
+            "garanzia"
+        ],
+        "gold_sol": "prestito",
+        "pred_sol": "fondo",
+        "pred_sols_top5": [
+            "fondo",
+            "testamento",
+            "parole",
+            "spazio",
+            "atto"
+        ],
+        "generated_desc": "La parola 'FONDO' è la soluzione corretta perché si lega a 'pubblico' nell'espressione linguistica 'fondo pubblico', si lega a 'dare' nell'espressione linguistica 'dare fondo', ed infine si lega a 'garanzia' nell'espressione linguistica 'fondo di garanzia'."
+    },
+    {
+        "hints": [
+            "parola",
+            "presidente",
+            "premio",
+            "popolare",
+            "banco"
+        ],
+        "gold_sol": "giuria",
+        "pred_sol": "partita",
+        "pred_sols_top5": [
+            "partita",
+            "repubblica",
+            "credere",
+            "giuria",
+            "dio"
+        ],
+        "generated_desc": "La parola 'PARTITA' è la soluzione corretta perché si lega a 'premio' nell'espressione linguistica 'premio partita', si lega a 'popolare' nell'espressione linguistica 'Partito Popolare Italiano', ed infine si lega a 'banco' nell'espressione linguistica 'partita di banco'."
+    },
+    {
+        "hints": [
+            "mai",
+            "chiuso",
+            "pericolo",
+            "metti",
+            "umano"
+        ],
+        "gold_sol": "caso",
+        "pred_sol": "troppa",
+        "pred_sols_top5": [
+            "troppa",
+            "bocca",
+            "canto",
+            "parte",
+            "caso"
+        ],
+        "generated_desc": "La parola 'TROPPA' è la soluzione corretta perché forma con 'mai' il proverbio italiano 'La prudenza non è mai troppa', forma con 'pericolo' il proverbio italiano 'Donne e uomini gelosi son troppo pericolosi', ed infine si lega a 'metti' nell'espressione linguistica 'mettere troppa carne al fuoco'."
+    },
+    {
+        "hints": [
+            "bello",
+            "aria",
+            "debole",
+            "dolori",
+            "mattone"
+        ],
+        "gold_sol": "stomaco",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "fare",
+            "stomaco",
+            "cattivo",
+            "sette"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'bello' nell'espressione linguistica 'avere una bella stazza', si lega a 'debole' nell'espressione linguistica 'avere un debole', ed infine si lega a 'mattone' nell'espressione linguistica 'avere un mattone sullo stomaco'."
+    },
+    {
+        "hints": [
+            "fuoco",
+            "pilastri",
+            "piedi",
+            "giú",
+            "madre"
+        ],
+        "gold_sol": "terra",
+        "pred_sol": "mettere",
+        "pred_sols_top5": [
+            "mettere",
+            "mano",
+            "andare",
+            "stare",
+            "poco"
+        ],
+        "generated_desc": "La parola 'METTERE' è la soluzione corretta perché si lega a 'fuoco' nell'espressione linguistica 'mettere a ferro e fuoco', si lega a 'piedi' nell'espressione linguistica 'mettere il piede in fallo', ed infine si lega a 'giú' nell'espressione linguistica 'mettere giù'."
+    },
+    {
+        "hints": [
+            "entrare",
+            "diffusione",
+            "biblioteca",
+            "interesse",
+            "festa"
+        ],
+        "gold_sol": "nazionale",
+        "pred_sol": "far",
+        "pred_sols_top5": [
+            "far",
+            "passivo",
+            "ballo",
+            "essere",
+            "sempre"
+        ],
+        "generated_desc": "La parola 'FAR' è la soluzione corretta perché si lega a 'entrare' nell'espressione linguistica 'entrare a far parte', ed infine si lega a 'festa' nell'espressione linguistica 'fare festa'."
+    },
+    {
+        "hints": [
+            "credere",
+            "bravi",
+            "paese",
+            "zero",
+            "solite"
+        ],
+        "gold_sol": "chiacchiere",
+        "pred_sol": "uomo",
+        "pred_sols_top5": [
+            "uomo",
+            "vivi",
+            "vero",
+            "vedere",
+            "fare"
+        ],
+        "generated_desc": "La parola 'UOMO' è la soluzione corretta perché forma con 'credere' il proverbio italiano 'L'uomo crede vero tutto quello che desidera', si lega a 'bravi' nell'espressione linguistica 'brav'uomo', ed infine si lega a 'solite' nell'espressione linguistica 'come un sol uomo'."
+    },
+    {
+        "hints": [
+            "terra",
+            "mina",
+            "figli",
+            "perfetto",
+            "signor"
+        ],
+        "gold_sol": "nessuno",
+        "pred_sol": "cielo",
+        "pred_sols_top5": [
+            "cielo",
+            "primo",
+            "fare",
+            "fior",
+            "amore"
+        ],
+        "generated_desc": "La parola 'CIELO' è la soluzione corretta perché si lega a 'terra' nell'espressione linguistica 'muovere cielo e terra', si lega a 'figli' nell'espressione linguistica 'figlio del Cielo', ed infine si lega a 'signor' nell'espressione linguistica 'signore del cielo'."
+    },
+    {
+        "hints": [
+            "lavoro",
+            "invitare",
+            "dolce",
+            "letto",
+            "aragosta"
+        ],
+        "gold_sol": "colazione",
+        "pred_sol": "camera",
+        "pred_sols_top5": [
+            "camera",
+            "posto",
+            "piazza",
+            "dolore",
+            "repubblica"
+        ],
+        "generated_desc": "La parola 'CAMERA' è la soluzione corretta perché si lega a 'lavoro' nell'espressione linguistica 'camera del lavoro', ed infine si lega a 'letto' nell'espressione linguistica 'camera da letto'."
+    },
+    {
+        "hints": [
+            "capanna",
+            "spesa",
+            "coppi",
+            "mondo",
+            "senza"
+        ],
+        "gold_sol": "tetto",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "tetto",
+            "due",
+            "fissa",
+            "quarto"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'spesa' nell'espressione linguistica 'fare la spesa', si lega a 'coppi' nell'espressione linguistica 'fare coppia fissa', ed infine si lega a 'senza' nell'espressione linguistica 'fare i conti senza l’oste'."
+    },
+    {
+        "hints": [
+            "ufficio",
+            "ragione",
+            "pronto",
+            "fuori",
+            "agitare"
+        ],
+        "gold_sol": "uso",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "pubblici",
+            "registro",
+            "tempi",
+            "dare"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'ragione' nell'espressione linguistica 'avere ragione', si lega a 'pronto' nell'espressione linguistica 'avere la battuta pronta', ed infine si lega a 'fuori' nell'espressione linguistica 'avere qualche rotella fuori posto'."
+    },
+    {
+        "hints": [
+            "dente",
+            "strada",
+            "panda",
+            "passo",
+            "buono"
+        ],
+        "gold_sol": "gigante",
+        "pred_sol": "uomo",
+        "pred_sols_top5": [
+            "uomo",
+            "tenere",
+            "fare",
+            "avere",
+            "sotto"
+        ],
+        "generated_desc": "La parola 'UOMO' è la soluzione corretta perché forma con 'dente' il proverbio italiano 'Finché l'uomo ha denti in bocca, non sa mai quel che gli tocca', si lega a 'strada' nell'espressione linguistica 'uomo della strada', si lega a 'passo' nell'espressione linguistica 'a passo d'uomo', ed infine si lega a 'buono' nell'espressione linguistica 'buon uomo'."
+    },
+    {
+        "hints": [
+            "fare",
+            "natura",
+            "pacco",
+            "mantello",
+            "sintesi"
+        ],
+        "gold_sol": "dono",
+        "pred_sol": "proprio",
+        "pred_sols_top5": [
+            "proprio",
+            "secondo",
+            "pelo",
+            "dono",
+            "morto"
+        ],
+        "generated_desc": "La parola 'PROPRIO' è la soluzione corretta perché si lega a 'fare' nell'espressione linguistica 'fare commercio del proprio corpo', ed infine forma con 'natura' il proverbio italiano 'Chi non intende la propria scrittura è un asino di natura'."
+    },
+    {
+        "hints": [
+            "riso",
+            "corno",
+            "lingua",
+            "chiave",
+            "paziente"
+        ],
+        "gold_sol": "inglese",
+        "pred_sol": "inglese",
+        "pred_sols_top5": [
+            "inglese",
+            "bocca",
+            "avere",
+            "vipera",
+            "questione"
+        ],
+        "generated_desc": "La parola 'INGLESE' è la soluzione corretta perché è storicamente associata a 'riso' nelle precedenti edizioni del gioco, si lega a 'corno' nell'espressione linguistica 'corno inglese', ed infine si lega a 'chiave' nell'espressione linguistica 'chiave inglese'."
+    },
+    {
+        "hints": [
+            "venezia",
+            "vita",
+            "fiera",
+            "fiori",
+            "orecchie"
+        ],
+        "gold_sol": "mercante",
+        "pred_sol": "avere",
+        "pred_sols_top5": [
+            "avere",
+            "fare",
+            "mercante",
+            "fin",
+            "dare"
+        ],
+        "generated_desc": "La parola 'AVERE' è la soluzione corretta perché si lega a 'fiori' nell'espressione linguistica 'avere i nervi a fior di pelle', ed infine si lega a 'orecchie' nell'espressione linguistica 'avere le orecchie foderate'."
+    },
+    {
+        "hints": [
+            "a.m.",
+            "cambiare",
+            "due",
+            "carta",
+            "vecchie"
+        ],
+        "gold_sol": "lire",
+        "pred_sol": "fare",
+        "pred_sols_top5": [
+            "fare",
+            "prendere",
+            "volto",
+            "stampa",
+            "avere"
+        ],
+        "generated_desc": "La parola 'FARE' è la soluzione corretta perché si lega a 'cambiare' nell'espressione linguistica 'fare a cambio', si lega a 'due' nell'espressione linguistica 'fare due più due', ed infine si lega a 'carta' nell'espressione linguistica 'fare carte false'."
+    },
+    {
+        "hints": [
+            "rispetto",
+            "sonno",
+            "operazione",
+            "garanzia",
+            "gioco"
+        ],
+        "gold_sol": "debito",
+        "pred_sol": "zona",
+        "pred_sols_top5": [
+            "zona",
+            "fuori",
+            "essere",
+            "buona",
+            "fare"
+        ],
+        "generated_desc": "La parola 'ZONA' è la soluzione corretta perché si lega a 'rispetto' nell'espressione linguistica 'zona di rispetto', si lega a 'operazione' nell'espressione linguistica 'zona delle operazioni', ed infine si lega a 'gioco' nell'espressione linguistica 'gioco a zona'."
+    },
+    {
+        "hints": [
+            "radio",
+            "facile",
+            "guerra",
+            "scout",
+            "pace"
+        ],
+        "gold_sol": "sentiero",
+        "pred_sol": "amore",
+        "pred_sols_top5": [
+            "amore",
+            "codice",
+            "penale",
+            "santa",
+            "sentiero"
+        ],
+        "generated_desc": "La parola 'AMORE' è la soluzione corretta perché forma con 'guerra' il proverbio italiano 'In amore e in guerra tutto è lecito', ed infine si lega a 'pace' nell'espressione linguistica 'amor di pace'."
+    },
+    {
+        "hints": [
+            "dottore",
+            "capo",
+            "madre",
+            "silenzio",
+            "matrimonio"
+        ],
+        "gold_sol": "chiesa",
+        "pred_sol": "chiesa",
+        "pred_sols_top5": [
+            "chiesa",
+            "zona",
+            "muro",
+            "terra",
+            "maggiore"
+        ],
+        "generated_desc": "La parola 'CHIESA' è la soluzione corretta perché si lega a 'dottore' nell'espressione linguistica 'dottore della Chiesa', si lega a 'madre' nell'espressione linguistica 'chiesa madre', ed infine si lega a 'silenzio' nell'espressione linguistica 'chiesa del silenzio'."
+    },
+    {
+        "hints": [
+            "esercizio",
+            "premio",
+            "espressione",
+            "dubbio",
+            "aspettare"
+        ],
+        "gold_sol": "risultato",
+        "pred_sol": "senza",
+        "pred_sols_top5": [
+            "senza",
+            "fuori",
+            "febbraio",
+            "vedi",
+            "utile"
+        ],
+        "generated_desc": "La parola 'SENZA' è la soluzione corretta perché è storicamente associata a 'espressione' nelle precedenti edizioni del gioco, ed infine si lega a 'dubbio' nell'espressione linguistica 'senza dubbio'."
+    },
+    {
+        "hints": [
+            "situazione",
+            "zero",
+            "artificiale",
+            "legge",
+            "centro"
+        ],
+        "gold_sol": "gravità",
+        "pred_sol": "urbana",
+        "pred_sols_top5": [
+            "urbana",
+            "numero",
+            "masso",
+            "quadro",
+            "sillaba"
+        ],
+        "generated_desc": "La parola 'URBANA' è la soluzione corretta perché si lega a 'legge' nell'espressione linguistica 'leggenda urbana', ed infine si lega a 'centro' nell'espressione linguistica 'centro urbano'."
+    },
+    {
+        "hints": [
+            "grande",
+            "forte",
+            "rovinare",
+            "letto",
+            "venezia"
+        ],
+        "gold_sol": "piazza",
+        "pred_sol": "piazza",
+        "pred_sols_top5": [
+            "piazza",
+            "uomo",
+            "andare",
+            "legge",
+            "vento"
+        ],
+        "generated_desc": "La parola 'PIAZZA' è la soluzione corretta perché si lega a 'forte' nell'espressione linguistica 'piazza forte', si lega a 'rovinare' nell'espressione linguistica 'rovinare la piazza', ed infine si lega a 'letto' nell'espressione linguistica 'letto a due piazze'."
+    }
+]
