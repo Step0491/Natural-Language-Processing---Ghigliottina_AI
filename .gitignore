@@ -5,3 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 corpora/
 grafi/cache_*
+*.pkl
