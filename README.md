@@ -21,13 +21,18 @@
 - `main.ipynb`: The primary executable notebook containing the project pipeline and experiments.
 - `requirements.txt`: List of Python dependencies required to run the project.
 - `scripts/`: Auxiliary Python scripts for data processing and model training.
-- `corpora/`: Large unstructured text corpora used for the distributional architecture.
+- `corpora/`: Large unstructured text corpora used for the distributional architecture. *(Excluded from repo due to size)*
 - `dataset_ghigliottina/`: Historical dataset of "La Ghigliottina" games.
 - `polirematiche_proverbi/`: Local knowledge bases, dictionaries, and idioms used for the symbolic architecture.
 - `dashboard/`: Web dashboard application files.
-- `grafi/`: Serialized graph structures (Lexical Knowledge Graph).
+- `grafi/`: Serialized graph structures (Lexical Knowledge Graph). *(Large matrices excluded from repo)*
 - `output/`: Generated outputs, models, and evaluation results.
 - `papers/` & `images/`: Project documentation and graphical assets.
+
+### Data Availability & Reproducibility
+> **Note on executing the code**: Due to GitHub's strict 100MB file limit, the massive text corpora (Paisà, Wikipedia, OpenSubtitles - ~10GB total) and the compiled distributional graph matrices (`.npz` cache) are excluded from this repository. 
+> 
+> The repository serves as a complete **reference codebase**. You can read through `main.ipynb` and the Python scripts to understand the architecture, logic, and results. To execute the distributional pipeline locally, you must independently download the source corpora and rebuild the sparse matrix using `scripts/build_fast_sparse_knowledge.py`.
 
 ---
 
