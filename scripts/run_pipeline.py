@@ -5,13 +5,13 @@ import os
 
 def run_step(step_name, command):
     print("\n" + "═" * 70)
-    print(f" 🚀 PIPELINE STEP: {step_name}")
+    print(f" PIPELINE STEP: {step_name}")
     print("═" * 70)
     
     start_time = time.perf_counter()
     
     try:
-        result = subprocess.run(command, check=True, text=True)
+        subprocess.run(command, check=True, text=True)
         elapsed = time.perf_counter() - start_time
         print(f"\n[✔] {step_name} completed successfully in {elapsed:.2f} seconds.")
         return True
@@ -22,14 +22,6 @@ def run_step(step_name, command):
         return False
 
 if __name__ == "__main__":
-    print("""
-    ██████╗ ██╗██████╗ ███████╗██╗     ██╗███╗   ██╗███████╗
-    ██╔══██╗██║██╔══██╗██╔════╝██║     ██║████╗  ██║██╔════╝
-    ██████╔╝██║██████╔╝█████╗  ██║     ██║██╔██╗ ██║█████╗  
-    ██╔═══╝ ██║██╔═══╝ ██╔══╝  ██║     ██║██║╚██╗██║██╔══╝  
-    ██║     ██║██║     ███████╗███████╗██║██║ ╚████║███████╗
-    ╚═╝     ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
-    """)
     print("Run Pipeline - La Ghigliottina\n")
     
     python_exe = sys.executable  
@@ -73,7 +65,7 @@ if __name__ == "__main__":
     # PHASE 3: STREAMLIT DASHBOARD DEPLOYMENT
     # =========================================================
     print("\n" + "═" * 70)
-    print(" 📊 PIPELINE STEP: Starting Streamlit Dashboard")
+    print(" PIPELINE STEP: Starting Streamlit Dashboard")
     print("═" * 70)
     print("[*] The dashboard will open automatically in the browser.")
     print("[*] To terminate the server and close everything, press CTRL+C in the terminal.\n")

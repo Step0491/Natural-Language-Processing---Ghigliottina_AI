@@ -1,0 +1,5 @@
+Reranker,Acc@1,Acc@5,MRR,Best Params,Tuning Time (s)
+XGBoost,37.0,51.0,0.4311666666666667,"{'subsample': 0.6, 'n_estimators': 200, 'max_depth': 3, 'learning_rate': 0.05, 'gamma': 0.1, 'colsample_bytree': 0.8}",9.404263496398926
+CatBoost,35.0,48.0,0.40666666666666657,"{'learning_rate': 0.05, 'l2_leaf_reg': 7, 'iterations': 300, 'depth': 6}",395.35343766212463
+LightGBM,30.0,48.0,0.375,"{'subsample': 1.0, 'num_leaves': 31, 'n_estimators': 200, 'max_depth': 8, 'learning_rate': 0.01, 'colsample_bytree': 0.8}",22.967740058898926
+RandomForest,28.000000000000004,48.0,0.3568333333333333,"{'n_estimators': 200, 'min_samples_split': 5, 'max_depth': 6}",28.605422019958496

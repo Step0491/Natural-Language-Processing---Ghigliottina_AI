@@ -1,6 +1,5 @@
 import json
 import numpy as np
-from tqdm import tqdm
 import nltk
 from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from rouge_score import rouge_scorer
