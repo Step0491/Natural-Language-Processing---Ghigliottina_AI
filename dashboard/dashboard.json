@@ -3,46 +3,110 @@
         "timestamp": "2026-05-25T08:00:00.000000",
         "configuration": "SYMBOLIC_BASELINE (Dictionaries Only)",
         "ingestion": {
-            "paisa_perc": 0.0, "paisa_max_char": 0, "wiki_perc": 0.0, "wiki_max_char": 0, "subs_perc": 0.0, "subs_max_char": 0
+            "paisa_perc": 0.0,
+            "paisa_max_char": 0,
+            "wiki_perc": 0.0,
+            "wiki_max_char": 0,
+            "subs_perc": 0.0,
+            "subs_max_char": 0
         },
-        "metrics": { "accuracy_1": 21.0, "accuracy_5": 42.0, "mrr": 0.2957 },
-        "graph_topology": { "vocabulary": 85000, "active_edges": 425000 }
+        "metrics": {
+            "accuracy_1": 21.0,
+            "accuracy_5": 42.0,
+            "mrr": 0.2957
+        },
+        "graph_topology": {
+            "vocabulary": 85000,
+            "active_edges": 425000
+        }
     },
     {
         "timestamp": "2026-05-30T10:15:30.000000",
         "configuration": "MINIMAL_BASELINE (P19K_W15K)",
         "ingestion": {
-            "paisa_perc": 5.0, "paisa_max_char": 50000, "wiki_perc": 1.0, "wiki_max_char": 30000, "subs_perc": 0.0, "subs_max_char": 50000
+            "paisa_perc": 5.0,
+            "paisa_max_char": 50000,
+            "wiki_perc": 1.0,
+            "wiki_max_char": 30000,
+            "subs_perc": 0.0,
+            "subs_max_char": 50000
         },
-        "metrics": { "accuracy_1": 3.0, "accuracy_5": 5.0, "mrr": 0.0383 },
-        "graph_topology": { "vocabulary": 201174, "active_edges": 17842404 }
+        "metrics": {
+            "accuracy_1": 3.0,
+            "accuracy_5": 5.0,
+            "mrr": 0.0383
+        },
+        "graph_topology": {
+            "vocabulary": 201174,
+            "active_edges": 17842404
+        }
     },
     {
         "timestamp": "2026-05-31T21:20:00.000000",
         "configuration": "STANDARD_BASELINE (P380K_W300K)",
         "ingestion": {
-            "paisa_perc": 100.0, "paisa_max_char": 50000, "wiki_perc": 18.99, "wiki_max_char": 30000, "subs_perc": 0.0, "subs_max_char": 50000
+            "paisa_perc": 100.0,
+            "paisa_max_char": 50000,
+            "wiki_perc": 18.99,
+            "wiki_max_char": 30000,
+            "subs_perc": 0.0,
+            "subs_max_char": 50000
         },
-        "metrics": { "accuracy_1": 21.0, "accuracy_5": 27.0, "mrr": 0.2383 },
-        "graph_topology": { "vocabulary": 1652463, "active_edges": 86209126 }
+        "metrics": {
+            "accuracy_1": 21.0,
+            "accuracy_5": 27.0,
+            "mrr": 0.2383
+        },
+        "graph_topology": {
+            "vocabulary": 1652463,
+            "active_edges": 86209126
+        }
     },
     {
         "timestamp": "2026-06-01T21:16:23.368273",
         "configuration": "P800K_W300K_S1M",
         "ingestion": {
-            "paisa_perc": 210.53, "paisa_max_char": 50000, "wiki_perc": 18.99, "wiki_max_char": 30000, "subs_perc": 2.65, "subs_max_char": 50000
+            "paisa_perc": 210.53,
+            "paisa_max_char": 50000,
+            "wiki_perc": 18.99,
+            "wiki_max_char": 30000,
+            "subs_perc": 2.65,
+            "subs_max_char": 50000
         },
-        "metrics": { "accuracy_1": 19.0, "accuracy_5": 27.0, "mrr": 0.2207 },
-        "graph_topology": { "vocabulary": 1667127, "active_edges": 86463271 }
+        "metrics": {
+            "accuracy_1": 19.0,
+            "accuracy_5": 27.0,
+            "mrr": 0.2207
+        },
+        "graph_topology": {
+            "vocabulary": 1667127,
+            "active_edges": 86463271
+        }
     },
     {
         "timestamp": "2026-06-06T15:20:00.000000",
         "configuration": "SOTA_HYBRID_LKG_XGBOOST",
         "ingestion": {
-            "paisa_perc": 210.53, "paisa_max_char": 50000, "wiki_perc": 18.99, "wiki_max_char": 30000, "subs_perc": 2.65, "subs_max_char": 50000
+            "paisa_perc": 210.53,
+            "paisa_max_char": 50000,
+            "wiki_perc": 18.99,
+            "wiki_max_char": 30000,
+            "subs_perc": 2.65,
+            "subs_max_char": 50000
         },
-        "metrics": { "accuracy_1": 33.0, "accuracy_5": 49.0, "mrr": 0.3987 },
-        "graph_topology": { "vocabulary": 1667127, "active_edges": 86463271 },
-        "xai_evaluation": { "bleu": 0.1069, "rouge_l": 0.3265, "bertscore_f1": 0.7636 }
+        "metrics": {
+            "accuracy_1": 37.0,
+            "accuracy_5": 51.0,
+            "mrr": 0.4312
+        },
+        "graph_topology": {
+            "vocabulary": 1667127,
+            "active_edges": 86463271
+        },
+        "xai_evaluation": {
+            "bleu": 0.1069,
+            "rouge_l": 0.3265,
+            "bertscore_f1": 0.7636
+        }
     }
 ]
